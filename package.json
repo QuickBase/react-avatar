@@ -1,5 +1,5 @@
 {
-  "name": "react-avatar",
+  "name": "@quickbase/react-avatar",
   "version": "2.5.1",
   "description": "Universal React avatar component makes it possible to generate avatars based on user information.",
   "main": "lib/index.js",
@@ -14,11 +14,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/QuickBase/react-avatar.git"
+    "url": "https://github.com/sitebase/react-avatar.git"
   },
   "author": "Wim Mostmans <wim@sitebase.be>",
   "bugs": {
-    "url": "https://github.com/QuickBase/react-avatar/issues"
+    "url": "https://github.com/sitebase/react-avatar/issues"
   },
   "keywords": [
     "component",
@@ -26,7 +26,7 @@
     "react-component",
     "avatar"
   ],
-  "homepage": "https://github.com/QuickBase/react-avatar",
+  "homepage": "https://github.com/sitebase/react-avatar",
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0",
     "prop-types": "^15.0.0 || ^16.0.0"
